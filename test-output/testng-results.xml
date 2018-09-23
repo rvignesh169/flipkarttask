@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29738" started-at="2018-09-23T18:22:10Z" finished-at="2018-09-23T18:22:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29738" started-at="2018-09-23T18:22:10Z" finished-at="2018-09-23T18:22:40Z">
+      <class name="flipkart.flipkart.com.testscript.TestScript">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:flipkart.flipkart.com.testscript.TestScript@47c62251]" name="launchBrowser" is-config="true" duration-ms="14292" started-at="2018-09-23T18:22:10Z" finished-at="2018-09-23T18:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:flipkart.flipkart.com.testscript.TestScript@47c62251]" name="testcase1" duration-ms="10627" started-at="2018-09-23T18:22:25Z" finished-at="2018-09-23T18:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:flipkart.flipkart.com.testscript.TestScript@47c62251]" name="testcase2" duration-ms="3836" started-at="2018-09-23T18:22:35Z" finished-at="2018-09-23T18:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:flipkart.flipkart.com.testscript.TestScript@47c62251]" name="closeBrowser" is-config="true" duration-ms="919" started-at="2018-09-23T18:22:39Z" finished-at="2018-09-23T18:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- flipkart.flipkart.com.testscript.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
